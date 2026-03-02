@@ -1,0 +1,47 @@
+{
+  "name": "sovereign-vault",
+  "version": "1.0.0",
+  "description": "Passphrase-only at-rest encryption for AI agents — hierarchical key derivation with SecureBuffer guard-paged memory",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist/"],
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest run",
+    "lint": "eslint src/"
+  },
+  "keywords": [
+    "encryption",
+    "vault",
+    "passphrase",
+    "argon2id",
+    "secure-memory",
+    "ai-agent",
+    "sodium-native",
+    "key-derivation",
+    "guard-pages",
+    "mlock"
+  ],
+  "author": "Scott Webster <scott@futurespeak.ai>",
+  "contributors": [
+    {
+      "name": "Claude Opus 4.6",
+      "url": "https://anthropic.com"
+    }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FutureSpeakAI/sovereign-vault.git"
+  },
+  "dependencies": {
+    "sodium-native": "^4.3.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0",
+    "vitest": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
