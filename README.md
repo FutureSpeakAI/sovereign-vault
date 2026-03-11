@@ -205,10 +205,10 @@ import { ARGON2_OPSLIMIT, ARGON2_MEMLIMIT, KDF_CONTEXTS } from 'sovereign-vault'
 
 ## Part of the Agent Friday Ecosystem
 
-Extracted from [Agent Friday](https://github.com/FutureSpeakAI/Agent-Friday) — an open-source AGI operating system. The Sovereign Vault was designed as part of the "Crypto Sprint" security hardening initiative (21 sprints over 3 days) and the Sovereign Vault v2 architecture redesign.
+Extracted from [Agent Friday](https://github.com/FutureSpeakAI/Agent-Friday) — the world's most trustworthy AI assistant. The Sovereign Vault was designed as part of the "Crypto Sprint" security hardening initiative (21 sprints over 3 days) and the Sovereign Vault v2 architecture redesign.
 
 **Related projects:**
-- [Agent Friday](https://github.com/FutureSpeakAI/Agent-Friday) — The AGI OS
+- [Agent Friday](https://github.com/FutureSpeakAI/Agent-Friday) — The AI assistant where Sovereign Vault was born
 - [claw-framework](https://github.com/FutureSpeakAI/claw-framework) — Compiled governance laws with attestation protocol
 - [agent-integrity](https://github.com/FutureSpeakAI/agent-integrity) — HMAC-signed identity protection
 - [trust-graph-engine](https://github.com/FutureSpeakAI/trust-graph-engine) — Multi-dimensional trust scoring
