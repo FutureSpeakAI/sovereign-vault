@@ -1,3 +1,5 @@
+> **This project now lives on in [Agent-Friday](https://github.com/FutureSpeakAI/Agent-Friday), archived 2026-10-11.**
+
 # Sovereign Vault
 
 **Passphrase-only at-rest encryption for AI agents** — a hierarchical key derivation system where a single passphrase protects all agent state. No OS keystores. No machine binding. No recovery backdoor.
